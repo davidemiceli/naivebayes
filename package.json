@@ -1,0 +1,38 @@
+{
+  "name": "naivebayes-predictor",
+  "version": "0.0.1",
+  "description": "Naive Bayes classifier that also uses continuous variables and log scale.",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "bayes",
+    "naive bayes",
+    "naivebayes",
+    "machine learning",
+    "artificial intelligence",
+    "machine intelligence",
+    "statistics"
+  ],
+  "author": "davidemiceli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidemiceli/naivebayes.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/davidemiceli/naivebayes/issues"
+  },
+  "maintainers": [
+    "davidemiceli"
+  ],
+  "homepage": "https://github.com/davidemiceli/naivebayes#readme",
+  "directories": {
+    "lib": "lib",
+    "examples": "examples"
+  },
+  "scripts": {
+    "test": "node /examples/test.js"
+  }
+}
