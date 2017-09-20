@@ -1,6 +1,6 @@
 {
   "name": "naivebayes-predictor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Naive Bayes classifier that also uses continuous variables and log scale.",
   "license": "MIT",
   "main": "index.js",
